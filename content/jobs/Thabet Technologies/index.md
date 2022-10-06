@@ -1,9 +1,9 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
+date: ''
+title: 'Sr. Flutter Developer'
+company: 'Thabet Tech PLC'
+location: 'Addis Ababa, Ethiopia'
+range: 'June 2021 - Present'
 url: 'https://starry.com/'
 ---
 

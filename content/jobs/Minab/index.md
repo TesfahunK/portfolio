@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2021-02-08'
+title: 'Junior Software Developer'
+company: 'Minab IT Solutions(HahuJobs)'
+location: 'Addis Ababa, Ethiopia'
+range: 'December 2019 - February 2021'
+url: 'https://www.minabtech.com/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
